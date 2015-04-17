@@ -1,0 +1,69 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,100);
+
+@media only screen and (min-width: 992px) {
+  .ui.page.grid {
+    width: auto;
+    margin-left: 0em;
+    margin-right: 0em;
+    padding-left: 23%;
+    padding-right: 23%;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .ui.page.grid {
+    width: auto;
+    margin-left: 0em;
+    margin-right: 0em;
+    padding-left: 28%;
+    padding-right: 28%;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  .ui.page.grid {
+    width: auto;
+    margin-left: 0em;
+    margin-right: 0em;
+    padding-left: 28%;
+    padding-right: 28%;
+  }
+}
+
+.ui.nopad.segment {
+    padding: 0px !important;
+}
+
+body {
+  background-image: url('images/bg8.png');
+  font-family: 'Lato', Calibri, Arial, sans-serif;
+}
+
+.m-item { width: 33%; }
+
+.ui.main.header {
+  height: 90px;
+  background-image: url('images/head.png');
+}
+
+.ui.submain.header {
+  margin-top: -70px;
+}
+
+.ui.alert.segment {
+  /*font-size: 1.3em;*/
+  font-weight: 300;
+}
+
+.ui.alert.segment .icon {
+  /*margin-top: 20px;*/
+}
+
+.ui.nopad.segment {
+  padding: 0px;
+}
+
+p.good {
+  font-size: 1.4em;
+  font-weight: 300;
+}
