@@ -7,6 +7,7 @@ define( "DB_PASSWORD", "root" );
 define( "CLASS_PATH", "classes" );
 define( "TEMPLATE_PATH", "templates" );
 require( CLASS_PATH . "/Photo.php" );
+require( CLASS_PATH . "/Favorite.php" );
 
 function handleException( $exception ) {
   echo "Baglanti hatasi olustu, gardasm!!!";
