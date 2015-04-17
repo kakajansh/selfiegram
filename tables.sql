@@ -18,28 +18,18 @@ INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VA
 INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 3', 'images/3.jpg', '47.624562', '-122.356442', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
 INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 4', 'images/4.jpg', '47.606366', '-122.337656', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
 INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 5', 'images/5.jpg', '47.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 1', 'images/delete/1.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 2', 'images/delete/2.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 3', 'images/delete/3.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 4', 'images/delete/4.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 5', 'images/delete/5.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 6', 'images/delete/6.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 7', 'images/delete/7.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 8', 'images/delete/8.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 9', 'images/delete/9.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 10', 'images/delete/10.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 11', 'images/delete/11.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 12', 'images/delete/12.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 13', 'images/delete/13.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 14', 'images/delete/14.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 15', 'images/delete/15.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 16', 'images/delete/16.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 17', 'images/delete/17.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 18', 'images/delete/18.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 19', 'images/delete/19.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 20', 'images/delete/20.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
-INSERT INTO photos (publicationDate, userid, title, image, content) VALUES (NOW(), 1, 'Resim 21', 'images/delete/21.jpg', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 6', 'images/6.jpg', '48.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 7', 'images/7.jpg', '44.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 8', 'images/8.jpg', '43.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 9', 'images/9.jpg', '42.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 10', 'images/10.jpg', '52.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 11', 'images/11.jpg', '21.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 12', 'images/12.jpg', '41.612825', '-122.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 13', 'images/13.jpg', '47.612825', '-120.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 14', 'images/14.jpg', '47.612825', '-121.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 15', 'images/15.jpg', '47.612825', '-12.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 16', 'images/16.jpg', '47.612825', '-13.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
+INSERT INTO photos (publicationDate, userid, title, image, lat, lng, content) VALUES (NOW(), 1, 'Resim 17', 'images/17.jpg', '47.612825', '-128.34567', 'Merhaba, simdi saat 17:25 ben biseyler yapiyorum');
 
 DROP TABLE IF EXISTS favorites;
 CREATE TABLE favorites
