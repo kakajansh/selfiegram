@@ -4,26 +4,26 @@
 
 __Favorites__
 
-* ~~Favorites class olustur~~
-* ~~Favorites ekle, sil~~
+* [x] Favorites class olustur
+* [x] Favorites ekle, sil
 
 __Photos__
 
-* ~~Ekleme~~
-* ~~Resim yukleme~~
-* ~~Silme~~
+* [x] Ekleme
+* [x] Resim yukleme
+* [x] Silme
 
 __GENEL__
 
-* ~~Profilimi duzenle~~
-* ~~Favorites sayfa olustur~~
-* ~~Kendi yuklediklerim sayfasi~~
+* [x] Profilimi duzenle
+* [x] Favorites sayfa olustur
+* [x] Kendi yuklediklerim sayfasi
 
 __EXTRA__
 
-* Facebook giris
-* Facebook tan kullanici bilgisini cekme
-* Facebook yorumlanabilir
-* ~~Google maps~~
+* ~~Facebook giris~~
+* ~~Facebook tan kullanici bilgisini cekme~~
+* ~~Facebook yorumlanabilir~~
+* [x] Google maps
 
 Sayawan © 2015
